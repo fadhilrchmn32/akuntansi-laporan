@@ -1,0 +1,6 @@
+{
+  "name": "Akuntansi & Laporan",
+  "description": "Sistem pembukuan internal berbasis akrual, double-entry ledger, HPP moving weighted average, dan laporan keuangan terintegrasi FINOPS_SHARED_V1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
